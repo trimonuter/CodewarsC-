@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\bin\Debug\net7.0\CodewarsC#.exe
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\bin\Debug\net7.0\CodewarsC#.deps.json
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\bin\Debug\net7.0\CodewarsC#.runtimeconfig.json
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\bin\Debug\net7.0\CodewarsC#.dll
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\bin\Debug\net7.0\CodewarsC#.pdb
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.dll
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\refint\CodewarsC#.dll
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.pdb
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\CodewarsC#.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Kuliah\Miscellaneous Coding\C#\CodewarsC#\obj\Debug\net7.0\ref\CodewarsC#.dll
