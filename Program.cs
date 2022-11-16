@@ -1,19 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// url: https://www.codewars.com/kata/56b1f01c247c01db92000076/train/csharp
-// program: 1_doublingCharacters.cs
+// url: https://www.codewars.com/kata/56efc695740d30f963000557/train/csharp
+// program: 2_alternatingCase.cs
 
-static string DoubleChar(string str)
-{
+static string ToAlternatingCase(string s){
   string newString = "";
-  for (int i = 0; i < str.Length; i++){
-    for (int j = 0; j < 2; j++){
-      newString += str[i];
+  for (int i = 0; i < s.Length; i++){
+    if (Char.IsUpper(s[i])){
+      newString += Char.ToLower(s[i]);
+    }
+    else{
+      newString += Char.ToUpper(s[i]);
     }
   }
   return newString;
 }
 
 Console.Write("Input text: ");
-string strInput = Console.ReadLine();
-Console.WriteLine(DoubleChar(strInput));
+string stringInput = Console.ReadLine();
+Console.WriteLine(ToAlternatingCase(stringInput));
